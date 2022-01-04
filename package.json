@@ -1,0 +1,23 @@
+{
+  "name": "js-interview",
+  "version": "1.0.0",
+  "description": "Coding and practising - JavaScript interview Tasks and Exercises",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ar-asatryan/js-interview.git"
+  },
+  "author": "Ararat Asatryan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ar-asatryan/js-interview/issues"
+  },
+  "homepage": "https://github.com/ar-asatryan/js-interview#readme",
+  "dependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
